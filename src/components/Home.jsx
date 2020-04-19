@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 import { Container, Button, Header, Icon, Segment, List } from 'semantic-ui-react';
 
 const Home = ({}) => {

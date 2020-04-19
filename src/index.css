@@ -25,8 +25,8 @@ div.ui.icon.header {
   margin-bottom: 0;
 }
 
-.item {
-  color: #AAAAAA;
+div.item {
+  margin-right: 5%;
 }
 
 div.ui.horizontal.list {
@@ -34,7 +34,20 @@ div.ui.horizontal.list {
 }
 
 a {
-  font-size: 200%
+  font-size: 200%;
+  color: #AAAAAA;
+}
+
+a.top-bar {
+  padding-right: 15%;
+}
+
+a#highlight {
+  color: #DDDDDD;
+}
+
+#top-bar {
+  margin-right: 5%;
 }
 
 #subheading {
